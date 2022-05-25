@@ -17,6 +17,7 @@ int main() {
     const int kuota_beasiswa = 5;
     int nilai_minimal;
     int index = 0;
+    int nomor = 1;
     peserta_beasiswa peserta [kuota_beasiswa];
 
     // Input 5 data kandidat penerima beasiswa
@@ -90,8 +91,8 @@ int main() {
             continue;
         }
 
-        cout << " " << index << ". " << peserta[index - 1].nama << "\t\t" << peserta[index - 1].asal << endl;
-        
+        cout << " " << nomor << ". " << peserta[index - 1].nama << "\t\t" << peserta[index - 1].asal << endl;
+        nomor++;
     }
 
     return 0;
