@@ -1,2 +1,2 @@
 # Game Matrix
-Membuat game dengan menggunakan pengaplikasian matrix
+Membuat game dua dimensi berbasis tiles sebagai salah satu contoh pengaplikasian matrix dalam pemrograman
