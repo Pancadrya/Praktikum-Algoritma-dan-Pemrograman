@@ -368,7 +368,7 @@ struct grafik {
         cout << "                     ~G~....:5J.                  " << "\n";
         cout << "                       :^^:^^.                    " << "\n\n";
         cout << "            =============================        " << "\n";
-        cout << "            |       KRIMINACITY         |        " << "\n";
+        cout << "            |        KRIMINACITY        |        " << "\n";
         cout << "            =============================        " << "\n";
         _getch();
     }
